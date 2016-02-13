@@ -1,3 +1,5 @@
+##### Objects, Arrays, For Loops, JSON
+
 In class, we introduced some basic concepts for working with data. Generally, the data we work with will be stored in objects and arrays. Objects can contain arrays, and arrays can contain objects. For clear and concise overviews of both, I recommend W3 Schools:
 
 Arrays: http://www.w3schools.com/js/js_arrays.asp
