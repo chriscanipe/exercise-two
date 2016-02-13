@@ -33,14 +33,14 @@ So here, we're going to create a for loop, which will be executed when the page 
 ```
 $(document).ready(function() {
 
-	A loop is a function that runs until a condition is met. Then it stops. Like so:
+	//A loop is a function that runs until a condition is met. Then it stops. Like so:
 
 	for (i=0; i < data.movies.length; i++) {
 
-		In plain English, here's what happens inside those parenthesis:
-		1) We define a variable called i, which is equal to 0.
-		2) If i is less than the length of the data.movies array, proceed.
-		3) Add 1 to i. (i++ is shorthand for i = i + 1)
+		// In plain English, here's what happens inside those parenthesis:
+		// 1) We define a variable called i, which is equal to 0.
+		// 2) If i is less than the length of the data.movies array, proceed.
+		// 3) Add 1 to i. (i++ is shorthand for i = i + 1)
 
 		console.log(data.movies[i]);
 	}
